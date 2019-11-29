@@ -5,6 +5,7 @@
 *Projects using CUE*
 
  * [systool](https://github.com/hdonnay/systool) - Generate shell scripts using CUE
+ * [cue-ansible](https://github.com/adieu/cue-ansible) - Write Ansible Playbooks in CUE
 
 ## Talks
 
