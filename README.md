@@ -11,6 +11,7 @@
 ## Talks
 
  * [CUE: a data constraint language and shoo-in for Go](https://www.youtube.com/watch?v=b3fhA12KS48)
+ * [Cloud Native Configuration Management 2020 and beyond](https://www.youtube.com/watch?v=GMMPBZIrqqE)
 
 ## Tutorials
 
