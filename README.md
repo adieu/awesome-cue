@@ -7,7 +7,7 @@
  * [systool](https://github.com/hdonnay/systool) - Generate shell scripts using CUE
  * [cue-ansible](https://github.com/adieu/cue-ansible) - Write Ansible Playbooks in CUE
  * [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for Vim
- * [t](https://github.com/ipcf/t) - A cuelang testing package
+ * [testing](https://github.com/ipcf/testing) - A cuelang testing package
 
 ## Talks
 
