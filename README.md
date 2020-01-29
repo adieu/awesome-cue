@@ -8,6 +8,8 @@
  * [cue-ansible](https://github.com/adieu/cue-ansible) - Write Ansible Playbooks in CUE
  * [vim-cue](https://github.com/jjo/vim-cue) - CUE syntax highlighting plugin for Vim
  * [testing](https://github.com/ipcf/testing) - A cuelang testing package
+ * [vscode-cue](https://github.com/betawaffle/vscode-cue) - CUE language support for Visual Studio Code
+ * [cue-mode.el](https://github.com/phaer/cue-mode.el) - A simple Emacs major mode for cuelang
 
 ## Talks
 
