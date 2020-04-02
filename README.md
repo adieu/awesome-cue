@@ -10,6 +10,7 @@
  * [testing](https://github.com/ipcf/testing) - A cuelang testing package
  * [vscode-cue](https://github.com/betawaffle/vscode-cue) - CUE language support for Visual Studio Code
  * [cue-mode.el](https://github.com/phaer/cue-mode.el) - A simple Emacs major mode for cuelang
+ * [cfn-cue](https://github.com/TangoGroup/cfn-cue) - CUE CloudFormation Schemas
 
 ## Talks
 
