@@ -12,6 +12,11 @@
  * [cue-mode.el](https://github.com/phaer/cue-mode.el) - A simple Emacs major mode for cuelang
  * [cfn-cue](https://github.com/TangoGroup/cfn-cue) - CUE CloudFormation Schemas
 
+*Tools to use with CUE*
+
+ * [kapp](https://github.com/k14s/kapp/) - Converges application resources (creates, updates and/or deletes resources) into kubernetes.  Use like `cue dump | kapp ...`  It's kubectl apply' on steriods.
+
+
 ## Talks
 
  * [CUE: a data constraint language and shoo-in for Go](https://www.youtube.com/watch?v=b3fhA12KS48)
